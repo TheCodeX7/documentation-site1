@@ -4,7 +4,7 @@ email: bradykondek@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Documentation for the 2022 FLVS TSA Webmaster project
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://documentation.flvswebmaster.ga" # the base hostname & protocol for your site
+url: "https://documentation.flvswebmaster.bradykondek.com" # the base hostname & protocol for your site
 #twitter_username:
 github_username: bradykondek
 
